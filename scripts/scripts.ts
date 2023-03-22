@@ -17,3 +17,4 @@
 
         alert("O valor da corrida é: " + formataMoeda(valorDaCorrida));//executa na hora
     }
+    
